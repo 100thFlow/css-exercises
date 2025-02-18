@@ -7,3 +7,7 @@ button {
   background: black;
   color: white;
 }
+
+.no-click-me {
+  background: yellow;
+}
